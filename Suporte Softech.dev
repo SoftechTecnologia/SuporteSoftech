@@ -1,0 +1,68 @@
+[Project]
+FileName=Suporte Softech.dev
+Name=Suporte Softech
+UnitCount=2
+Type=1
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Suporte_Softech_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=1
+Icon=
+ExeOutput=
+ObjectOutput=
+OverrideOutput=0
+OverrideOutputName=Suporte Softech.exe
+HostApplication=
+Folders=
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000
+
+[Unit1]
+FileName=main.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1046
+CharsetID=1252
+CompanyName=Softech Tecnologia
+FileVersion=
+FileDescription=Instalador do suporte rápido da Softech Tecnologia
+InternalName=
+LegalCopyright=Softech Tecnologia
+LegalTrademarks=Softech Tecnologia
+OriginalFilename=
+ProductName=
+ProductVersion=
+AutoIncBuildNr=0
+
+[Unit2]
+FileName=Untitled1.rc
+Folder=Suporte Softech
+Compile=1
+Link=0
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
